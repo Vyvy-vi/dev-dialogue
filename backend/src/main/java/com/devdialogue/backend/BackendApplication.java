@@ -34,5 +34,4 @@ public class BackendApplication implements CommandLineRunner {
 				.build();
 		adminService.createAdmin(admin);
 	}
-
 }
